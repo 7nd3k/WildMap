@@ -1,3 +1,5 @@
+// By 7nd3k (200k) !! https://github.com/7nd3k !!
+
 import net from 'net';
 import readline from 'readline';
 import { execSync } from 'child_process';
